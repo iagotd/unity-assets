@@ -1,2 +1,6 @@
-# unity-assets
+# Unity Assets
 Compilation of assets for Unity game development.
+
+
+## Implemented Assets:
+- Dialog Scripts
