@@ -6,3 +6,5 @@ Compilation of assets for Unity game development.
 - Dialog Scripts
 - Movement Scripts
 - Loading Scripts (persistency)
+- Attributes
+- Game Progression
