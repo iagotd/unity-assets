@@ -8,3 +8,4 @@ Compilation of assets for Unity game development.
 - Loading Scripts (persistency)
 - Attributes
 - Game Progression
+- Joystick implementado
